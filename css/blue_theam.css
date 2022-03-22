@@ -1,0 +1,25 @@
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-brand span,
+.navbar-nav .dropdown-menu :hover,
+.about h1 span,
+.testimonials span,
+.footer .copyright span,
+.footer h3
+{
+	color: #1785e4;
+}
+
+
+
+
+.dropdown-divider,
+.option-box .color-option ul li
+{
+	background-color: #1785e4
+}
+
+.option-box .color-option{
+	border: 2px solid #1785e4;
+	
+}
